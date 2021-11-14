@@ -1,8 +1,8 @@
 # Francis-Gikaru
 ### Hi there 
 
-Here are some of the things am working on ...
-I'm currently learning ...
+- Here are some of the things am working on ... Machine learning with CNN 
+- I'm currently learning ... Tensorflow and R
 - :zap: I love philosophy, python, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
