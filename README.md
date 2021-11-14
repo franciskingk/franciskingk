@@ -1,4 +1,4 @@
-# Hi! Francis-Gikaru here !!
+# Hi! Francis here!!
 ### 
 I am a data scientist.
 
