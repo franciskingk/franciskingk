@@ -7,7 +7,7 @@ I am a data scientist.
 - :zap: I love philosophy, python, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
-  - :contact: [Gmail](franciskingk@gmail.com)
+  -  [Gmail](franciskingk@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/francis-gikaru-20b8b5bb/)
 
   
