@@ -10,7 +10,15 @@ I am a data scientist.
   -  [Gmail](franciskingk@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/francis-gikaru-20b8b5bb/)
 
+
+
+
+
+
   
 [![Francis's github stats](https://github-readme-stats.vercel.app/api?username=franciskingk&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciskingk)](https://github.com/franciskingk/github-readme-stats)
