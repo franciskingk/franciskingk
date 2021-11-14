@@ -1,9 +1,9 @@
 # Hi! Francis here!!
 ### 
-I am a data scientist.
+I am a data scientist. Feel free to poke around my repos, pull requests and ask me any questions.
 
-- Here are some of the things am working on ... Machine learning with CNN 
-- I'm currently learning ... Tensorflow and R
+- Here are some of the things am working on ... **Machine learning with CNN 
+- I'm currently learning ... **Tensorflow and R
 - :zap: I love philosophy, python, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
