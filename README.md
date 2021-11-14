@@ -1,4 +1,4 @@
-# Hi there my name is Francis-Gikaru
+# Hi! Francis-Gikaru here
 ### 
 I am a data scientist.
 
