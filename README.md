@@ -1,6 +1,3 @@
-# Hi! Francis here!!
-### 
-
 # 👋🏾 Hi, I’m Francis Gikaru
 ###
 **Kenyan Data Scientist · AI & ML Innovator · Social Impact Storyteller**
